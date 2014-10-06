@@ -1,0 +1,17 @@
+{
+  "name": "kashif74-htcondor_auto_nagios",
+  "version": "0.1.0",
+  "author": "kashif74",
+  "summary": "auto nagios for htcondor",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {
+      "version_range": ">= 1.0.0",
+      "name": "puppetlabs-stdlib"
+    }
+  ]
+}
+
